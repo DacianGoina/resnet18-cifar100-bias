@@ -44,4 +44,4 @@ You can follow the next steps:
 
 The procedure presented above can the used for multiple samples, instead of one sample at once. Below is an example with 4 images, and SHAP partitioning results after 5000 evaluations
 
-![Fig. 3 The results of partitioning explainer on 4 images after 5000 evaluations](5000iters/4samples.png)
+![Fig. 3 The results of partitioning explainer on 4 images after 5000 evaluations](5000iters/4samples.png "Fig. 3 The results of partitioning explainer on 4 images after 5000 evaluations")
