@@ -44,4 +44,7 @@ You can follow the next steps:
 
 The procedure presented above can the used for multiple samples, instead of one sample at once. Below is an example with 4 images, and SHAP partitioning results after 5000 evaluations
 
-![Fig. 3 The results of partitioning explainer on 4 images after 5000 evaluations](5000iters/4samples.png "Fig. 3 The results of partitioning explainer on 4 images after 5000 evaluations") **Fig. 3 The results of partitioning explainer on 4 images after 5000 evaluations**
+![Fig. 1 The results of partitioning explainer on 4 images after 5000 evaluations](5000iters/4samples.png "Fig. 1 The results of partitioning explainer on 4 images after 5000 evaluations") **Fig. 1 The results of partitioning explainer on 4 images after 5000 evaluations**
+
+
+As observed, the images of the correct predicted classses have a strong red highlight in comparison with the left of the predictions which have less red regions.
